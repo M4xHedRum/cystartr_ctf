@@ -1,0 +1,1 @@
+Binary search https://en.wikipedia.org/wiki/Binary_search_algorithm should get you the answer in less than 32 tries

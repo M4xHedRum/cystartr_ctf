@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}artshop{% endblock %}
+
+{% block content %}
+    <div class="cardo">
+        <p>Buy it</p>
+        <p>Buy the flag</p>
+        <form method="post" action="/artshop">
+        <input type="hidden" value="18000" name="flag">
+        <button type="submit">Buy</button></form>
+    </div>
+{% endblock %}

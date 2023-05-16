@@ -1,0 +1,3 @@
+View website source code and edit the value for the flag to "-18000"
+OR
+Intercept the request to buy the flag and edit the value to "-18000"

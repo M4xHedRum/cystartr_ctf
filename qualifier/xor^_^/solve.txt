@@ -1,0 +1,7 @@
+url format: http://{BASE_URL}/blablabla1/blablabla2
+
+if blablabla1 XOR blablabla2 = "flagflagflagflagflag"
+	return the flag
+
+Hint cost 20 points however user registration was not locked
+Expected: Players to create dummy new acct, get 30 points with sanity checks and use said dummy acct to get the hint

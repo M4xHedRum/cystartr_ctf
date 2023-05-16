@@ -1,0 +1,1 @@
+None jwt algo https://portswigger.net/kb/issues/00200901_jwt-none-algorithm-supported

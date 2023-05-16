@@ -1,0 +1,6 @@
+Chall: 
+Find linkedin acct from phone number and one name
+
+Solution: 
+Palmpay acct lookup to get full name
+Find LinkedIn acct https://www.linkedin.com/in/adebayo-ekeh-599122274/
